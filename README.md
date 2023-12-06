@@ -2,6 +2,7 @@
 Node Farm is a simple JavaScript application built on Node.js that allows users to explore a variety of fruits and vegetables and determine if they are organic or not.
 
 ## Features
+[Features](#features)
 * View a list of fruits and vegetables.
 * Determine if each item is organic or not.
 
